@@ -1,7 +1,7 @@
 DrawingAnimate
 ==============
 
-Rrom muzei..
+From muzei..
 
 这是开源项目Muzei的动画效果..<br />
 发现某宝的初始页也是介个效果..于是提了出来<br /> 
